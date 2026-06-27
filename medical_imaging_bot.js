@@ -19,4 +19,4 @@ imagingFact = 'While MRIs use powerful magnets and can take a long time, ' + bot
 console.log('Fun fact 3: ' + imagingFact);
 console.log('='.repeat(60));
 
-console.log('It was nic sharing these facts with you. Goodbye! - ' + botName + ' from ' + botLocation)
+console.log('It was nice sharing these facts with you. Goodbye! - ' + botName + ' from ' + botLocation)
